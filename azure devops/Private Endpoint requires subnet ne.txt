@@ -1,0 +1,2 @@
+Private Endpoint requires subnet network policies to be disabled because Azure manages the security of the private endpoint internally.
+

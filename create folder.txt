@@ -1,0 +1,6 @@
+create folder
+put our website or index.html
+vi dockerfile
+write inside
+build the image
+Create Artifact Registry Repository
